@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://olganikolaevna71.ru/sitemap.xml
